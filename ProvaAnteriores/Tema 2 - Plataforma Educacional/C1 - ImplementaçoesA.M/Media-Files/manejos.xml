@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Manejos>
+  <Manejo>
+    <ID>47281</ID>
+    <Tipo>Vacinação</Tipo>
+  </Manejo>
+  <Manejo>
+    <ID>92634</ID>
+    <Tipo>Inseminação</Tipo>
+  </Manejo>
+  <Manejo>
+    <ID>38502</ID>
+    <Tipo>Tosa</Tipo>
+  </Manejo>
+  <Manejo>
+    <ID>10756</ID>
+    <Tipo>Monta</Tipo>
+  </Manejo>
+  <Manejo>
+    <ID>64982</ID>
+    <Tipo>Vacinação</Tipo>
+  </Manejo>
+</Manejos>

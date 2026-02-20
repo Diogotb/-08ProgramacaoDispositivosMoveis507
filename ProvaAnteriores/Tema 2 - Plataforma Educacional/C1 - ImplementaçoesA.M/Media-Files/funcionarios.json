@@ -1,0 +1,32 @@
+[
+    {
+      "ID": "16284",
+      "nome": "Marcos Silva",
+      "latitude": -23.623334, 
+      "longitude": -46.550141 
+    },
+    {
+      "ID": "94712",
+      "nome": "Pedro Souza",
+      "latitude": -23.628389, 
+      "longitude": -46.560421 
+    },
+    {
+      "ID": "53901",
+      "nome": "José Santos",
+      "latitude": -23.632346, 
+      "longitude": -46.542957 
+    },
+    {
+      "ID": "28463",
+      "nome": "Ricardo Oliveira",
+      "latitude": -23.617184, 
+      "longitude": -46.556850 
+    },
+    {
+      "ID": "71590",
+      "nome": "Isabela Pereira",
+      "latitude": -23.620441, 
+      "longitude": -46.545108 
+    }
+  ]
