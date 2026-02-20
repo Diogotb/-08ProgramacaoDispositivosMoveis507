@@ -1,0 +1,1 @@
+# Área reservada para estudos de design
