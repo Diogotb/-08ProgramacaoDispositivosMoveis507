@@ -5,7 +5,10 @@ import 'package:flutter/material.dart';
 // import 'package:lista_exercicios/exercicio04.dart';
 // import 'package:lista_exercicios/exercicio05.dart';
 // import 'package:lista_exercicios/exercicio06.dart';
-import 'package:lista_exercicios/exercicio07.dart';
+// import 'package:lista_exercicios/exercicio07.dart';
+// import 'package:lista_exercicios/exercicio08.dart';
+// import 'package:lista_exercicios/exercicio09.dart';
+import 'package:lista_exercicios/exercicioFinal.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Exercicio07(),
+      home: MainApp(),
     );
   }
 }

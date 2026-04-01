@@ -3,10 +3,6 @@
 
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const Exercicio01());
-}
-
 class Exercicio01 extends StatelessWidget {
   const Exercicio01({super.key});
 

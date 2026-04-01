@@ -4,9 +4,6 @@
 import 'package:flutter/material.dart';
 import 'controller/ex04_controller.dart';
 
-void main() {
-  runApp(const Exercicio04());
-}
 class Exercicio04 extends StatefulWidget {
   const Exercicio04({super.key});
   @override
