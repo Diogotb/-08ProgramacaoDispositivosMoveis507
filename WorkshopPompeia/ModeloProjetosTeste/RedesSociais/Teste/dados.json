@@ -1,0 +1,123 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Competidor Exemplo",
+      "email": "competidor.exemplo@spskills.com.br",
+      "senha": "MinhaSenhaForte123",
+      "usuario": "competidor.master",
+      "data_nascimento": "2006-05-12",
+      "modalidade": "Desenvolvimentos de Aplicativos Móveis",
+      "amigos": [2, 3, 4]   
+    },
+    {
+      "id": 2,
+      "nome": "Mariana Costa",
+      "email": "mariana.costa@spskills.com.br",
+      "senha": "UserPass@2026",
+      "usuario": "mari.web",
+      "data_nascimento": "2007-08-20",
+      "modalidade": "Tecnologia Web",
+      "amigos": [1, 5]
+    },
+    {
+      "id": 3,
+      "nome": "Ricardo Ferreira",
+      "email": "ricardo.ferreira@spskills.com.br",
+      "senha": "Security#99",
+      "usuario": "ricardo.cyber",
+      "data_nascimento": "2005-03-15",
+      "modalidade": "Segurança Cibernética",
+      "amigos": [1, 4]
+    },
+    {
+      "id": 4,
+      "nome": "Beatriz Souza",
+      "email": "beatriz.souza@spskills.com.br",
+      "senha": "Design@Strong",
+      "usuario": "bia.design",
+      "data_nascimento": "2008-11-10",
+      "modalidade": "Tecnologia em Design Gráfico",
+      "amigos": [1, 3, 5]
+    },
+    {
+      "id": 5,
+      "nome": "Gabriel Santos",
+      "email": "gabriel.santos@spskills.com.br",
+      "senha": "Electro!2026",
+      "usuario": "gabs.eletronica",
+      "data_nascimento": "2006-01-25",
+      "modalidade": "Eletrônica",
+      "amigos": [2, 4]
+    }
+  ],
+  "modalidades": [
+    { "id": 1, "nome": "Controle Industrial" },
+    { "id": 2, "nome": "Desenho Mecânico em CAD" },
+    { "id": 3, "nome": "Eletrônica" },
+    { "id": 4, "nome": "Fresagem a CNC" },
+    { "id": 5, "nome": "Indústria 4.0" },
+    { "id": 6, "nome": "Integração de Sistemas Robóticos" },
+    { "id": 7, "nome": "Manufatura Aditiva" },
+    { "id": 8, "nome": "Mecânica Industrial" },
+    { "id": 9, "nome": "Mecatrônica" },
+    { "id": 10, "nome": "Robótica Móvel Autônoma" },
+    { "id": 11, "nome": "Soldagem" },
+    { "id": 12, "nome": "Tecnologia da Água" },
+    { "id": 13, "nome": "Tornearia a CNC" },
+    { "id": 14, "nome": "Tecnologia Química Laboratorial" },
+    { "id": 15, "nome": "Tecnologia em Design Industrial" },
+    { "id": 16, "nome": "Tecnologia Optoeletrônica" },
+    { "id": 17, "nome": "Tecnologias de Energias Verdes" },
+    { "id": 18, "nome": "Computação em Nuvem" },
+    { "id": 19, "nome": "Desenvolvimentos de Aplicativos Móveis" },
+    { "id": 20, "nome": "Redes de Cabeamento Estruturados" },
+    { "id": 21, "nome": "Segurança Cibernética" },
+    { "id": 22, "nome": "Sistema de Gestão de Redes" },
+    { "id": 23, "nome": "Soluções em Softwares para Negócios" },
+    { "id": 24, "nome": "Tecnologia Web" },
+    { "id": 25, "nome": "Funilaria Automotiva" },
+    { "id": 26, "nome": "Logística & Envios Internacionais" },
+    { "id": 27, "nome": "Manutenção Aeronáutica" },
+    { "id": 28, "nome": "Pintura Automotiva" },
+    { "id": 29, "nome": "Tecnologia Automotiva" },
+    { "id": 30, "nome": "Tecnologia de Veículos Ferroviários" },
+    { "id": 31, "nome": "Tecnologia de Veículos Pesados" },
+    { "id": 32, "nome": "Confeitaria" },
+    { "id": 33, "nome": "Panificação" },
+    { "id": 34, "nome": "Arte Digital 3D para Jogos" },
+    { "id": 35, "nome": "Joalheria" },
+    { "id": 36, "nome": "Tecnologia da Moda" },
+    { "id": 37, "nome": "Tecnologia em Design Gráfico" },
+    { "id": 38, "nome": "Visual Merchandising" },
+    { "id": 39, "nome": "Carpintaria" },
+    { "id": 40, "nome": "Construção Digital - BIM" },
+    { "id": 41, "nome": "Construção de Espaços Verdes" },
+    { "id": 42, "nome": "Construção em Alvenaria" },
+    { "id": 43, "nome": "Construções em Concreto" },
+    { "id": 44, "nome": "Instalações Elétricas" },
+    { "id": 45, "nome": "Instalações Hidráulicas e de Aquecimento" },
+    { "id": 46, "nome": "Marcenaria de Estruturas" },
+    { "id": 47, "nome": "Movelaria" },
+    { "id": 48, "nome": "Pintura Decorativa" },
+    { "id": 49, "nome": "Revestimentos Cerâmicos" },
+    { "id": 50, "nome": "Sistemas de Refrigeração" },
+    { "id": 51, "nome": "Sistemas Drywall" }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "usuario_id": 1,
+      "texto": "Preparando para a São Paulo Skills! #DevSkills #Foco",
+      "tags": ["#DevSkills", "#Foco"],
+      "data_publicacao": "2026-05-12T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "usuario_id": 2,
+      "texto": "Finalizando o layout responsivo do projeto! 🚀",
+      "tags": ["#WebDesign", "#Responsive"],
+      "data_publicacao": "2026-05-12T11:30:00Z"
+    }
+  ]
+}
