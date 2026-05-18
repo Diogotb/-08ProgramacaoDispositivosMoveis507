@@ -1,0 +1,233 @@
+{
+    "cursos": [
+        {
+            "id": 1,
+            "nomeCompleto": "Matemática",
+            "nomeBreve": "Mat",
+            "categoria_id": 1,
+            "visivel": true,
+            "dataInicio": "26/02/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Matemática do ensino médio",
+            "formato": "Formato semanal",
+            "professores_id": [
+                1,
+                2
+            ],
+            "porcentagem": 0.75
+        },
+        {
+            "id": 2,
+            "nomeCompleto": "Matemática-Avançada",
+            "nomeBreve": "Mat-Av",
+            "categoria_id": 2,
+            "visivel": true,
+            "dataInicio": "01/03/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Curso de matemática com foco em cálculo e álgebra avançada",
+            "formato": "Formato tópicos",
+            "professores_id": [
+                2,
+                3
+            ],
+            "porcentagem": 0.5
+        },
+        {
+            "id": 3,
+            "nomeCompleto": "Português",
+            "nomeBreve": "Port",
+            "categoria_id": 3,
+            "visivel": true,
+            "dataInicio": "15/03/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Língua portuguesa com foco em gramática e redação",
+            "formato": "Formato semanal",
+            "professores_id": [
+                1,
+                4
+            ],
+            "porcentagem": 0.8
+        },
+        {
+            "id": 4,
+            "nomeCompleto": "Biologia",
+            "nomeBreve": "Bio",
+            "categoria_id": 4,
+            "visivel": true,
+            "dataInicio": "10/03/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Estudo da vida e dos seres vivos",
+            "formato": "Formato Social",
+            "professores_id": [
+                5
+            ],
+            "porcentagem": 0.6
+        },
+        {
+            "id": 5,
+            "nomeCompleto": "Lógica de Programação",
+            "nomeBreve": "Lógica",
+            "categoria_id": 1,
+            "visivel": true,
+            "dataInicio": "05/03/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Fundamentos da lógica computacional",
+            "formato": "Atividade Única",
+            "professores_id": [
+                2,
+                6
+            ],
+            "porcentagem": 0.9
+        },
+        {
+            "id": 6,
+            "nomeCompleto": "História Geral",
+            "nomeBreve": "HistG",
+            "categoria_id": 5,
+            "visivel": true,
+            "dataInicio": "01/04/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "História mundial e civilizações",
+            "formato": "Formato semanal",
+            "professores_id": [
+                7
+            ],
+            "porcentagem": 0.4
+        },
+        {
+            "id": 7,
+            "nomeCompleto": "Geografia Física",
+            "nomeBreve": "GeoF",
+            "categoria_id": 5,
+            "visivel": true,
+            "dataInicio": "15/04/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Estudo dos elementos físicos do planeta",
+            "formato": "Formato tópicos",
+            "professores_id": [
+                4
+            ],
+            "porcentagem": 0.65
+        },
+        {
+            "id": 8,
+            "nomeCompleto": "Química Orgânica",
+            "nomeBreve": "QuimOrg",
+            "categoria_id": 4,
+            "visivel": true,
+            "dataInicio": "22/04/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Química dos compostos do carbono",
+            "formato": "Formato Social",
+            "professores_id": [
+                3
+            ],
+            "porcentagem": 0.7
+        },
+        {
+            "id": 9,
+            "nomeCompleto": "Educação Financeira",
+            "nomeBreve": "Fin",
+            "categoria_id": 3,
+            "visivel": true,
+            "dataInicio": "01/05/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Planejamento e controle financeiro pessoal",
+            "formato": "Formato semanal",
+            "professores_id": [
+                6,
+                7
+            ],
+            "porcentagem": 0.85
+        },
+        {
+            "id": 10,
+            "nomeCompleto": "Redação para Vestibulares",
+            "nomeBreve": "RedVest",
+            "categoria_id": 3,
+            "visivel": true,
+            "dataInicio": "10/05/2025",
+            "dataFim": "20/12/2028",
+            "descricao": "Técnicas de redação voltadas para vestibulares",
+            "formato": "Formato tópicos",
+            "professores_id": [
+                1,
+                4
+            ],
+            "porcentagem": 0.95
+        }
+    ],
+    "professores_id": [
+        {
+            "id": 1,
+            "nome": "Ana Silva",
+            "email": "ana@email.com",
+            "telefone": "(99) 99999-9999",
+            "descricao": "Professor"
+        },
+        {
+            "id": 2,
+            "nome": "Caio Martins",
+            "email": "caio@email.com",
+            "telefone": "(98) 98888-8888",
+            "descricao": "Especialista em matemática"
+        },
+        {
+            "id": 3,
+            "nome": "Luciana Costa",
+            "email": "luciana@email.com",
+            "telefone": "(97) 97777-7777",
+            "descricao": "Professora de química"
+        },
+        {
+            "id": 4,
+            "nome": "Felipe Nogueira",
+            "email": "felipe@email.com",
+            "telefone": "(96) 96666-6666",
+            "descricao": "Professor de português"
+        },
+        {
+            "id": 5,
+            "nome": "Júlia Fernandes",
+            "email": "julia@email.com",
+            "telefone": "(95) 95555-5555",
+            "descricao": "Professora de biologia"
+        },
+        {
+            "id": 6,
+            "nome": "Marcos Lima",
+            "email": "marcos@email.com",
+            "telefone": "(94) 94444-4444",
+            "descricao": "Professor de lógica e finanças"
+        },
+        {
+            "id": 7,
+            "nome": "Beatriz Souza",
+            "email": "beatriz@email.com",
+            "telefone": "(93) 93333-3333",
+            "descricao": "Professora de história e geografia"
+        }
+    ],
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Qualidade de Software"
+        },
+        {
+            "id": 2,
+            "nome": "Exatas"
+        },
+        {
+            "id": 3,
+            "nome": "Linguagens"
+        },
+        {
+            "id": 4,
+            "nome": "Ciências da Natureza"
+        },
+        {
+            "id": 5,
+            "nome": "Ciências Humanas"
+        }
+    ]
+}

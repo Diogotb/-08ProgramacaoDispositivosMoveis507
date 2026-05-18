@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "titulo": "Como Organizar Seus Estudos",
+    "descricao": "Monte sua rotina.",
+    "data": "2025-05-01"
+  },
+  {
+    "id": 2,
+    "titulo": "Física das Cores",
+    "descricao": "Entenda as cores.",
+    "data": "2025-05-08"
+  },
+  {
+    "id": 3,
+    "titulo": "Técnicas de Memorização",
+    "descricao": "Memorize melhor.",
+    "data": "2025-05-15"
+  },
+  {
+    "id": 4,
+    "titulo": "Evite a Procrastinação",
+    "descricao": "Foque no estudo.",
+    "data": "2025-05-22"
+  },
+  {
+    "id": 5,
+    "titulo": "Ambiente de Estudo Ideal",
+    "descricao": "Estude com conforto.",
+    "data": "2025-05-29"
+  },
+  {
+    "id": 6,
+    "titulo": "Estude com Áudio",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-06-05"
+  },
+  {
+    "id": 7,
+    "titulo": "Evite Multitarefas ao Estudar",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-06-12"
+  },
+  {
+    "id": 8,
+    "titulo": "Como Usar Flashcards",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-06-19"
+  },
+  {
+    "id": 9,
+    "titulo": "Dicas para Aprender Rápido",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-06-26"
+  },
+  {
+    "id": 10,
+    "titulo": "Organize Seus Materiais",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-07-03"
+  },
+  {
+    "id": 11,
+    "titulo": "Estudos em Grupo Funcionam?",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-07-10"
+  },
+  {
+    "id": 12,
+    "titulo": "A Importância da Motivação",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-07-17"
+  },
+  {
+    "id": 13,
+    "titulo": "Como Criar uma Rotina Produtiva",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-07-24"
+  },
+  {
+    "id": 14,
+    "titulo": "A Importância da Motivação",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-07-31"
+  },
+  {
+    "id": 15,
+    "titulo": "Tecnologia e Estudo",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-08-07"
+  },
+  {
+    "id": 16,
+    "titulo": "Como Lidar com a Ansiedade",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-08-14"
+  },
+  {
+    "id": 17,
+    "titulo": "Tecnologia e Estudo",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-08-21"
+  },
+  {
+    "id": 18,
+    "titulo": "Como Criar uma Rotina Produtiva",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-08-28"
+  },
+  {
+    "id": 19,
+    "titulo": "Como Dividir o Tempo de Estudo",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-09-04"
+  },
+  {
+    "id": 20,
+    "titulo": "Estude com Áudio",
+    "descricao": "Descrição genérica do artigo.",
+    "data": "2025-09-11"
+  }
+]
